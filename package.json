@@ -10,9 +10,11 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "chromedriver": "^97.0.4",
     "geckodriver": "^3.0.1",
     "pkg": "^5.5.2",
     "selenium-webdriver": "^3.6.0"
+  },
+  "devDependencies": {
+    "chromedriver": "^97.0.4"
   }
 }
