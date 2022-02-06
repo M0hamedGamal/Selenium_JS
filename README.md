@@ -7,3 +7,9 @@ Sample Steps.
 3- Type 'npm i' into terminal.  
 4- Type 'node index.js' into terminal.  
 5- Enjoy!# Selenium_JS
+
+
+// NOTE:
+If you got an error, try to reinstall chromedriver library.
+
+npm install -g chromedriver
