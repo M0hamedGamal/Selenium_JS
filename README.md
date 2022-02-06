@@ -6,4 +6,4 @@ Sample Steps.
 2- Open terminal into folder.
 3- Type 'npm i' into terminal.
 4- Type 'node index.js' into terminal.
-5- Enjoy!
+5- Enjoy!# Selenium_JS
