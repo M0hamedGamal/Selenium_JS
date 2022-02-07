@@ -1,0 +1,18 @@
+2022/02/07-16:26:14.684 10691 Reusing MANIFEST /home/mohamed/Desktop/React-Study/ITI Course/selenium-first-app/chrome-data/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/02/07-16:26:14.684 10691 Recovering log #138
+2022/02/07-16:26:14.712 10691 Reusing old log /home/mohamed/Desktop/React-Study/ITI Course/selenium-first-app/chrome-data/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000138.log 
+2022/02/07-16:26:18.788 106ac Level-0 table #146: started
+2022/02/07-16:26:18.806 106ac Level-0 table #146: 1289098 bytes OK
+2022/02/07-16:26:18.809 106ac Delete type=0 #138
+2022/02/07-16:26:25.404 106ae Compacting 1@1 + 4@2 files
+2022/02/07-16:26:25.446 106ae Generated table #147@1: 31197 keys, 2256998 bytes
+2022/02/07-16:26:25.481 106ae Generated table #148@1: 25853 keys, 2264414 bytes
+2022/02/07-16:26:25.538 106ae Generated table #149@1: 69133 keys, 2265514 bytes
+2022/02/07-16:26:25.554 106ae Generated table #150@1: 20505 keys, 1127471 bytes
+2022/02/07-16:26:25.554 106ae Compacted 1@1 + 4@2 files => 7914397 bytes
+2022/02/07-16:26:25.556 106ae compacted to: files[ 0 0 4 0 0 0 0 ]
+2022/02/07-16:26:25.556 106ae Delete type=2 #146
+2022/02/07-16:26:25.556 106ae Delete type=2 #141
+2022/02/07-16:26:25.556 106ae Delete type=2 #143
+2022/02/07-16:26:25.556 106ae Delete type=2 #142
+2022/02/07-16:26:25.556 106ae Delete type=2 #140
