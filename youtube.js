@@ -50,13 +50,7 @@ async function example() {
     await driver.wait(until.elementIsEnabled(skipAdsYoutubeBtn), 14000);
     await skipAdsYoutubeBtn.click();
   } catch (error) {
-    // Try to skip ads again.
-    const skipAdsYoutubeBtn = await driver.findElement(
-      By.className("ytp-ad-skip-button ytp-button")
-    );
-    await driver.wait(until.elementIsVisible(skipAdsYoutubeBtn), 14000);
-    await driver.wait(until.elementIsEnabled(skipAdsYoutubeBtn), 14000);
-    await skipAdsYoutubeBtn.click();
+    console.log(error);
   }
 }
 
