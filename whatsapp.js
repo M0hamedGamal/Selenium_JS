@@ -35,10 +35,15 @@ async function example() {
       10000
     )
     .then(async (el) => {
-      el.sendKeys("Youssef");
+      el.sendKeys("Name of your friend");
 
       await driver
-        .wait(until.elementLocated(By.xpath('//span[@title="Youssef"]')), 10000)
+        .wait(
+          until.elementLocated(
+            By.xpath('//span[@title="Name of your friend"]')
+          ),
+          10000
+        )
         .then((el) => {
           el.click();
         });
